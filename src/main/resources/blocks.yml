@@ -1,0 +1,66 @@
+COAL_ORE:
+  xp: 10
+  respawnTime: 5
+  requiredLevel: 0
+  hardness: 1
+  minimumToolTierRequired: 0
+  drops:
+    COAL_ORE: 100
+IRON_ORE:
+  xp: 10
+  respawnTime: 10
+  requiredLevel: 10
+  hardness: 2
+  minimumToolTierRequired: 1
+  drops:
+    IRON_ORE: 100
+LAPIS_ORE:
+  xp: 10
+  respawnTime: 20
+  requiredLevel: 30
+  hardness: 3
+  minimumToolTierRequired: 2
+  drops:
+    LAPIS_ORE: 100
+REDSTONE_ORE:
+  xp: 10
+  respawnTime: 30
+  requiredLevel: 50
+  hardness: 4
+  minimumToolTierRequired: 3
+  drops:
+    REDSTONE_ORE: 100
+GOLD_ORE:
+  xp: 10
+  respawnTime: 40
+  requiredLevel: 60
+  hardness: 5
+  minimumToolTierRequired: 4
+  drops:
+    GOLD_ORE: 100
+DIAMOND_ORE:
+  xp: 10
+  respawnTime: 50
+  requiredLevel: 75
+  hardness: 7
+  minimumToolTierRequired: 4
+  drops:
+    DIAMOND_ORE: 100
+EMERALD_ORE:
+  xp: 10
+  respawnTime: 60
+  requiredLevel: 90
+  hardness: 9
+  minimumToolTierRequired: 5
+  drops:
+    EMERALD_ORE: 100
+ANCIENT_DEBRIS:
+  xp: 10
+  respawnTime: 80
+  requiredLevel: 95
+  hardness: 10
+  minimumToolTierRequired: 6
+  drops:
+    ANCIENT_DEBRIS: 100
+
+

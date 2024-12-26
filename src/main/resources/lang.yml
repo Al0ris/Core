@@ -1,0 +1,8 @@
+Commands:
+  noPermission: "&4&lYou do not have permission to use this command!"
+  invalidSyntax: "&4&lInvalid syntax! Try: "
+  playerNotFound: "&4&lCould not find player: "
+
+Gameplay:
+  toolNotGoodEnough: "&c&lYou are not using the required tool for this block!"
+  levelNotHighEnough: "&c&lYou are not high enough level to mine this block!"

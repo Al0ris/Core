@@ -1,0 +1,17 @@
+mongoConnectionString: "mongodb+srv://doublesgamez:Rhgu3449@playerdata.bwfq2.mongodb.net/"
+databaseName: "playerDataDB"
+collectionName: "data"
+
+#Mining
+#The current equation for calculating mining speed is:
+# 350 + (BlockHardness * BlockHardnessWeight) - (PickaxeTier * PickaxeWeight) - (EfficiencyLevel * EfficiencyWeight) - (PlayerLevel * LevelWeight)
+# All weights must be integer values (i.e. 1, 2, 7 etc.)
+
+#Pickaxe tiers are as follows: WOOD: 1, STONE: 2, GOLD: 3, IRON: 4, DIAMOND: 5, NETHERITE: 6
+pickaxeWeight: 10
+#Efficiency levels are between 1 and 6
+efficiencyWeight: 10
+#Levels are between 1 and 100
+levelWeight: 10
+#Hardness values are between 1 and 10
+blockHardnessWeight: 10
